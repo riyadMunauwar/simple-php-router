@@ -17,7 +17,7 @@ SimplePHPRouter is a lightweight, high-performance routing library for PHP appli
 You can install SimplePHPRouter using Composer:
 
 ```bash
-composer require yourvendor/simplephprouter
+composer require riyad/simplephprouter
 ```
 
 Or include the `Router.php` file directly in your project.
